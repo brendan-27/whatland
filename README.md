@@ -1,6 +1,6 @@
 ### Hello
 
-Add me on discord: hhh#0002.
+Add me on discord: update#0001.
 
 <!--
 **whatland/whatland** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
