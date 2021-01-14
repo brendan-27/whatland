@@ -1,6 +1,6 @@
 ### Hello
 
-Add me on discord: savior#1337
+Add me on discord: savior#8515 (no nitro)
 
 <!--
 **whatland/whatland** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
