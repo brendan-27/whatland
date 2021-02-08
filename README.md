@@ -1,6 +1,6 @@
 ### Hello
 
-Add me on discord: savior#1337.
+Add me on discord: savior#1000.
 
 jS/HtMl
 
