@@ -2,7 +2,7 @@
 
 Add me on discord: savior#1000.
 
-jS/HtMl
+I code a lot of JavaScript
 
 <!--
 **whatland/whatland** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
