@@ -1,6 +1,6 @@
 ### Hello
 
-Add me on discord: savior#1000.
+Add me on discord: whatland#0001.
 
 I code a lot of JavaScript.
 
