@@ -1,6 +1,6 @@
 ### Hello
 
-Add me on discord: savior#0018
+Add me on discord: savior#0018.
 
 JS/ making discord bots.
 
