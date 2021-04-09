@@ -1,8 +1,8 @@
 ### Hello
 
-Add me on discord: whatland#0001.
+Add me on discord: whatland#0001
 
-JS/ making discord bots.
+JS/ making discord bots
 
 <!--
 **whatland/whatland** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
