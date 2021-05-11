@@ -1,6 +1,6 @@
 ### Hello
 
-Add me on discord: whatland#0001.
+Discord: whatland#0001
 
 JS/ making discord bots
 
