@@ -2,6 +2,8 @@
 
 Discord: whatland#0001
 
+Website: https://whatland.github.io/ (Very Unfinished)
+
 JS / making discord bots.
 
 <!--
