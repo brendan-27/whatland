@@ -1,6 +1,6 @@
 ### Hello
 
-Discord: whatland#0001
+Discord: whatland#1337
 
 Website: https://whatland.github.io/ (Very Unfinished)
 
