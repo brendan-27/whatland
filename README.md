@@ -1,4 +1,4 @@
-### Hello,
+### Hello
 
 Discord: whatland#1337
 
