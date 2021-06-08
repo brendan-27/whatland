@@ -1,6 +1,6 @@
 ### Hello
 
-Discord: uwuwu#1337
+Discord: pw#1337
 
 Website: https://whatland.github.io/ (Very Unfinished)
 
