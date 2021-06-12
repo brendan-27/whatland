@@ -4,7 +4,7 @@ Discord: pw#1337
 
 Website: https://whatland.github.io/ (Very Unfinished)
 
-JS / making discord bots.
+
 
 <!--
 **whatland/whatland** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
