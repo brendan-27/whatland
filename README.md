@@ -1,6 +1,6 @@
 ### Hello
 
-Discord: pw#1337
+Discord: yhg
 
 Website: https://whatland.github.io/ (Very Unfinished)
 
