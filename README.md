@@ -1,6 +1,6 @@
 ### Hello
 
-Discord: yhg
+Discord: yhga
 
 Website: https://whatland.github.io/ (Very Unfinished)
 
