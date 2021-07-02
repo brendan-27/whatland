@@ -2,7 +2,7 @@
 
 Discord: 1414414
 
-Website: https://whatland.github.io/ (Very Unfinished)
+Website: https://whatland.github.io/ (Inactive rightnow)
 
 
 
