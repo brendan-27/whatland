@@ -1,7 +1,5 @@
 ### Hello
 
-Discord: 
-
 Website: https://whatland.github.io/ (Inactive rightnow)
 
 
