@@ -1,6 +1,6 @@
 ### Hello
 
-Discord: 1414414
+Discord: 
 
 Website: https://whatland.github.io/ (Inactive rightnow)
 
