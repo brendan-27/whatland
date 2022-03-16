@@ -1,9 +1,8 @@
 ### 
 
-ajdbjrn#7497
+mostly used javascript and java
 
-
-
+working on learning C++
 
 
 <!--
