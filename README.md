@@ -2,7 +2,7 @@
 
 mostly used javascript and java
 
-working on learning C++
+working on C++
 
 
 <!--
