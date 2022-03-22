@@ -1,6 +1,6 @@
 ### 
 
-mostly used javascript and java
+mostly used javascript
 
 working on C++
 
